@@ -50,6 +50,8 @@ cd jppcompiler
 make && make install
 source ~/.bashrc
 ```
+## rm "$PREFIX/bin/jpp" unstall jpp out termux
+
 
 
 
