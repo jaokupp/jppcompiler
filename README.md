@@ -31,14 +31,14 @@ Select one of the following methods to install the jpp compiler on your environm
 This method downloads and runs the installation script automatically using wget:
 
 ```bash
-wget -qO- https://githubusercontent.com | bash
+wget -qO- https://raw.githubusercontent.com/jaokupp/jppcompiler/main/install.sh | bash
 ```
 
 ### Method 2: Automated Installation via curl
 Alternatively, you can use curl to fetch and execute the installation script:
 
 ```bash
-curl -fsSL https://githubusercontent.com | bash
+curl -fsSL https://raw.githubusercontent.com/jaokupp/jppcompiler/main/install.sh | bash
 ```
 
 ### Method 3: Manual Compilation from Source
